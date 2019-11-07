@@ -1,0 +1,11 @@
+/Users/ada/Desktop/vs code/test/bin/Debug/netcoreapp3.0/test
+/Users/ada/Desktop/vs code/test/bin/Debug/netcoreapp3.0/test.deps.json
+/Users/ada/Desktop/vs code/test/bin/Debug/netcoreapp3.0/test.runtimeconfig.json
+/Users/ada/Desktop/vs code/test/bin/Debug/netcoreapp3.0/test.runtimeconfig.dev.json
+/Users/ada/Desktop/vs code/test/bin/Debug/netcoreapp3.0/test.dll
+/Users/ada/Desktop/vs code/test/bin/Debug/netcoreapp3.0/test.pdb
+/Users/ada/Desktop/vs code/test/obj/Debug/netcoreapp3.0/test.csprojAssemblyReference.cache
+/Users/ada/Desktop/vs code/test/obj/Debug/netcoreapp3.0/test.AssemblyInfoInputs.cache
+/Users/ada/Desktop/vs code/test/obj/Debug/netcoreapp3.0/test.AssemblyInfo.cs
+/Users/ada/Desktop/vs code/test/obj/Debug/netcoreapp3.0/test.dll
+/Users/ada/Desktop/vs code/test/obj/Debug/netcoreapp3.0/test.pdb
