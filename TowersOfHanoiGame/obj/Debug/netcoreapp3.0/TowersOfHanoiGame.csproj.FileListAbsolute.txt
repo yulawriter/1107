@@ -1,0 +1,11 @@
+/Users/ada/Desktop/vs code/TowersOfHanoiGame/obj/Debug/netcoreapp3.0/TowersOfHanoiGame.csprojAssemblyReference.cache
+/Users/ada/Desktop/vs code/TowersOfHanoiGame/obj/Debug/netcoreapp3.0/TowersOfHanoiGame.AssemblyInfoInputs.cache
+/Users/ada/Desktop/vs code/TowersOfHanoiGame/obj/Debug/netcoreapp3.0/TowersOfHanoiGame.AssemblyInfo.cs
+/Users/ada/Desktop/vs code/TowersOfHanoiGame/bin/Debug/netcoreapp3.0/TowersOfHanoiGame
+/Users/ada/Desktop/vs code/TowersOfHanoiGame/bin/Debug/netcoreapp3.0/TowersOfHanoiGame.deps.json
+/Users/ada/Desktop/vs code/TowersOfHanoiGame/bin/Debug/netcoreapp3.0/TowersOfHanoiGame.runtimeconfig.json
+/Users/ada/Desktop/vs code/TowersOfHanoiGame/bin/Debug/netcoreapp3.0/TowersOfHanoiGame.runtimeconfig.dev.json
+/Users/ada/Desktop/vs code/TowersOfHanoiGame/bin/Debug/netcoreapp3.0/TowersOfHanoiGame.dll
+/Users/ada/Desktop/vs code/TowersOfHanoiGame/bin/Debug/netcoreapp3.0/TowersOfHanoiGame.pdb
+/Users/ada/Desktop/vs code/TowersOfHanoiGame/obj/Debug/netcoreapp3.0/TowersOfHanoiGame.dll
+/Users/ada/Desktop/vs code/TowersOfHanoiGame/obj/Debug/netcoreapp3.0/TowersOfHanoiGame.pdb
