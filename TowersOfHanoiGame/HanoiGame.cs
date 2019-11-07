@@ -11,21 +11,69 @@ namespace TowersOfHanoiGame
         public  int disk = 0;
         public  int from = 0;
         public  int to = 0;
+        public int i = 0;
 
         public void Setup()
         {
+            
             //輸入高度
-            Console.WriteLine("請輸入河內塔的高度：");
-            string input = Console.ReadLine();
-            disk = int.Parse(input);
+            
+            while(true)
+            {
+                Console.WriteLine("請輸入河內塔的高度(範圍1~3)：");
+                string input = Console.ReadLine();
+                if(int.TryParse(input,out disk))
+                {
+                    disk = int.Parse(input);
+                    if(disk >= 1 && disk <= 3)
+                    {
+                        break;
+                    }
+                    Console.WriteLine("你輸入的範圍錯誤，請輸入河內塔高度(範圍1~3)：");
+                }
+                else
+                {
+                    Console.WriteLine("你輸入的不是數字，請輸入河內塔高度(範圍1~3)：");
+                }
+            }
 
-            Console.WriteLine("起始地的柱子:(1,2,3)");
-            input = Console.ReadLine();
-            from = int.Parse(input);
+            while(true)
+            {
+                Console.WriteLine("起始地的柱子:(1,2,3)");
+                string input = Console.ReadLine();
+                if(int.TryParse(input,out from))
+                {
+                    from = int.Parse(input);
+                    if(from >= 1 && from <= 3)
+                    {
+                        break;
+                    }
+                    Console.WriteLine("你輸入的範圍錯誤，起始地的柱子:(1,2,3)：");
+                }
+                else
+                {
+                    Console.WriteLine("你輸入的不是數字，起始地的柱子:(1,2,3)：");
+                }
+            }
 
-            Console.WriteLine("目的地的柱子：(1,2,3)");
-            input = Console.ReadLine();
-            to = int.Parse(input);
+            while(true)
+            {
+                Console.WriteLine("目的地的柱子：(1,2,3)");
+                string input = Console.ReadLine();
+                if(int.TryParse(input,out to))
+                {
+                    to = int.Parse(input);
+                    if(to >= 1 && to <= 3)
+                    {
+                        break;
+                    }
+                    Console.WriteLine("你輸入的範圍錯誤，目的地的柱子:(1,2,3)："); 
+                }
+                else
+                {
+                    Console.WriteLine("你輸入的不是數字，目的地的柱子:(1,2,3)：");
+                }
+            }
         
             
         }   
