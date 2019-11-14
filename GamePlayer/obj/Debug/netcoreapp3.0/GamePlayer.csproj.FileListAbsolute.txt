@@ -1,0 +1,11 @@
+/Users/ada/Desktop/vs code/GamePlayer/bin/Debug/netcoreapp3.0/GamePlayer
+/Users/ada/Desktop/vs code/GamePlayer/bin/Debug/netcoreapp3.0/GamePlayer.deps.json
+/Users/ada/Desktop/vs code/GamePlayer/bin/Debug/netcoreapp3.0/GamePlayer.runtimeconfig.json
+/Users/ada/Desktop/vs code/GamePlayer/bin/Debug/netcoreapp3.0/GamePlayer.runtimeconfig.dev.json
+/Users/ada/Desktop/vs code/GamePlayer/bin/Debug/netcoreapp3.0/GamePlayer.dll
+/Users/ada/Desktop/vs code/GamePlayer/bin/Debug/netcoreapp3.0/GamePlayer.pdb
+/Users/ada/Desktop/vs code/GamePlayer/obj/Debug/netcoreapp3.0/GamePlayer.csprojAssemblyReference.cache
+/Users/ada/Desktop/vs code/GamePlayer/obj/Debug/netcoreapp3.0/GamePlayer.AssemblyInfoInputs.cache
+/Users/ada/Desktop/vs code/GamePlayer/obj/Debug/netcoreapp3.0/GamePlayer.AssemblyInfo.cs
+/Users/ada/Desktop/vs code/GamePlayer/obj/Debug/netcoreapp3.0/GamePlayer.dll
+/Users/ada/Desktop/vs code/GamePlayer/obj/Debug/netcoreapp3.0/GamePlayer.pdb
